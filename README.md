@@ -1,9 +1,9 @@
 # 🪐 Rick and Morty - Personagens Dinâmicos com Fetch API
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![GitHub](https://shields.io)
+![HTML5]
+![CSS3]
+![JavaScript]
+![GitHub]
 
 ## 📌 Sobre o Projeto
 
