@@ -1,10 +1,5 @@
 # 🪐 Rick and Morty - Personagens Dinâmicos com Fetch API
 
-![HTML5]
-![CSS3]
-![JavaScript]
-![GitHub]
-
 ## 📌 Sobre o Projeto
 
 Este projeto é uma aplicação web interativa que consome dados em tempo real da [The Rick and Morty API](https://rickandmortyapi.com/) para renderizar os cards dos personagens do desenho de forma 100% dinâmica. 
