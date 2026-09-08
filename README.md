@@ -52,13 +52,3 @@ Cada componente gerado em tela traz em tempo real:
 * **Endpoint Base:** `https://rickandmortyapi.com`
 * **Regras de Acesso:** API pública, gratuita e de acesso aberto (não necessita de chaves de autenticação ou tokens privados).
 * **Estrutura de Resposta:** Retorna um objeto contendo uma chave `info` (metadados de paginação) e uma chave `results` contendo o array com os objetos estruturados de cada personagem.
-
----
-
-## 🎥 Demonstração e Vídeo Pitch
-
-O vídeo explicativo detalhando o funcionamento e os critérios exigidos pelo edital do desafio pode ser acessado através do link abaixo:
-
-👉 **[Assista ao Vídeo Pitch do Projeto no YouTube]((https://youtu.be/_AYBjt-IRKI))**
-
-*(No vídeo é realizada a validação da geração dinâmica dos cards inspecionando a aba Rede/Network do Console do Desenvolvedor).*
